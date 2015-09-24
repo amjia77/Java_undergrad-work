@@ -1,0 +1,10 @@
+Big Bang Theory;Johnny Galecki;28
+Big Bang Theory;Jim Parsons;30
+Big Bang Theory;Kaley Cuoco;26
+Hawaii Five O;Alex O'Loughlin;35
+Hawaii Five O;Scott Caan;33
+Hawaii Five O;Daniel Kim;36
+Hawaii Five O;Grace Park;32
+ABC World News;Diane Sawyer;60
+ABC World News;David Muir;45
+CEO;Cullum;58

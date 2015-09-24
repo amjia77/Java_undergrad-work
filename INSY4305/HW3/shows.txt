@@ -1,0 +1,4 @@
+CBS;Big Bang Theory;Lorre;Comedy;300
+CBS;Hawaii Five O;Kurtzman;Drama;600
+ABC;ABC World News;Arlidge;News;250
+PBS;CEO;Cullum;News;150

@@ -1,0 +1,4 @@
+Public;PBS;Paula Kerger;2100 Chrystal Drive,Arlington,Virginia,22202;Public Radio
+Commercial;CBS;Leslie Moonves;51 West 52nd Street,New York,New York,10019;Philippe Dauman;Viacom
+Commercial;ABC;Ben Sherwood;54 West 67th Street,New York,New York,10017;Ed Noble;Disney
+Commercial;NBC;Jeff Zucker;30 Rockefeller Center,New York,New York,10112;Burke Cox;General Electric
